@@ -1,9 +1,3 @@
-
-RegisterCommand("lucky", function() 
-	num = math.random(1,10)
-	TriggerEvent("chatMessage", "L", {255,0,0}, "Has sacado un ^2"..num)
-end, false)
-
 RegisterCommand("suerte", function(source,args) 
     die = 5
     num = math.random(1,10)
