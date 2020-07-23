@@ -4,8 +4,9 @@
 Script para dados para Fivem
 
 # Install
-1 - Download code and paste in resource folder
-2 - Add in your server.cfg 'start dice-fivem"
+1- Download code and paste in resource folder
+
+2- Add in your server.cfg 'start dice-fivem"
 
 # Use
 
