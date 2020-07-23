@@ -9,8 +9,9 @@ Script para dados para Fivem
 
 # Use
 
-1 - default: You write /suerte and get a random number between 1 and 5 with difficulty 5
-2 - custom: You write /suerte <1-10> and get a random number between 1 and 5 with difficulty custom
+1- default: You write /suerte and get a random number between 1 and 5 with difficulty 5
+
+2- custom: You write /suerte <1-10> and get a random number between 1 and 5 with difficulty custom
 
 try you're lucky
 
